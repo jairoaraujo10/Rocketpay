@@ -4,6 +4,7 @@ Aplicação desenvolvida para estudos da linguagem elixir. Implementação atrav
 
 To start your Phoenix server:
 
+  * Start a postgres instance `docker run --name postgres -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres`
   * Install dependencies with `mix deps.get`
   * Create and migrate your database with `mix ecto.setup`
   * Start Phoenix endpoint with `mix phx.server`
