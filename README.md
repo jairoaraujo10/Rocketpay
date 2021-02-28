@@ -1,6 +1,6 @@
 # Next Level Week - Edição 4
 
-Aplicação desenvolvida para estudos da linguagem elixir. Implementação através da arquitetura MVC no framework Phoenix e ecossistema Ecto.
+API desenvolvida para estudos da linguagem elixir. Implementação através da arquitetura MVC do framework Phoenix e ecossistema Ecto.
 
 To start your Phoenix server:
 
